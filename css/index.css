@@ -250,7 +250,7 @@ details[open] summary::after {
 }
 
 .produto img:hover{
-   transform: scale(1.2);
+   transform: scale(1.03);
    content: url('../imgs/costasgeral.png');
    position: cover;
 }
