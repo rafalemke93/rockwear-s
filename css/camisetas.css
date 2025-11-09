@@ -6,7 +6,6 @@
     margin-bottom: 0;
 }
 
-
 a {
     text-decoration: none;
     transition: transform 0.2s ease-in-out;
@@ -217,9 +216,9 @@ body {
 .produto {
     display: flex;
     flex-direction: row;
-    padding-left: 5%;
     margin-top: 50px;
     width: 80%;
+    gap: 50px;
 }
 
 .produto img {
@@ -396,6 +395,7 @@ body {
 .desc {
     display: flex;
     flex-direction: column;
+    margin-left: 50px;
 }
 
 .desc p {
